@@ -154,7 +154,7 @@ OpenAI: OpenAI client to generate responses in two-agent mode.
                 break
 
 
-# ¿Qué hace esta función?
+# What does this function do?
 
 1. Crea un cliente Swarm y OpenAI.
 
